@@ -1,4 +1,4 @@
-# Josephschmitt Repo
+# Homebrew Repo
 
 ## How do I install these formulae?
 
